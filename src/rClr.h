@@ -14,6 +14,7 @@
 // Imports and includes
 /////////////////////////////////////////
 
+#include <cstdlib>
 
 #ifdef MONO_CLR
 // define these to keep using booleans with MS CPP. Feels kludgy, but so long.
